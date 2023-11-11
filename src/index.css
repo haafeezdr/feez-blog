@@ -15,7 +15,7 @@
   border-bottom: 1px solid #f2f2f2;
 }
 .navbar h1 {
-  color: rgba(5, 41, 36, 0.993);
+  color: #377d68;
 }
 .navbar .links {
   margin-left: auto;
@@ -41,10 +41,13 @@
   border-bottom: 1px solid #fafafa;
 }
 .blog-preview:hover {
-  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+  box-shadow: 1px 3px 5px rgba(1, 36, 32, 0.479);
 }
 .blog-preview h2 {
   font-size: 20px;
   color:#377d68;
   margin-bottom: 8px;
+}
+button {
+  color: #377d68;
 }
